@@ -72,14 +72,12 @@ I enjoy translating complex problems into structured, deployable AI solutions.
 - https://github.com/IQ-rhythm/IonQ-Encode
 
 ### Quantum Computing Challenges & Awards
-🏆 Challenger Level Award, 2025 Quantum Challenge <br>
-  hosted by Quantum Information Research Support Center
-🏆 1st Place, IonQ Remote Track, 2024 iQuHack <br>
-  **hosted by MIT**(Massachusetts Institute of Technology) 
+- *Challenger Level Award, 2025 Quantum Challenge 🏆* <br> hosted by Quantum Information Research Support Center
+- *1st Place, IonQ Remote Track, 2024 iQuHack 🏆* <br>**hosted by MIT**(Massachusetts Institute of Technology) 
 
 ---
 
-## 🛠️Engineering Experience (Selected Projects)
+## 🛠️Engineering Experience
 
 
 ### Record-Based Journaling App (Frontend & Data Architecture)

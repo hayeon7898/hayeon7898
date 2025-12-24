@@ -45,7 +45,8 @@ I enjoy translating complex problems into structured, deployable AI solutions.
 - Trained ConvNeXt V2 on balanced RGB datasets and YOLOv8 on highly imbalanced
   X-ray datasets to learn robust visual representations
 - Integrated defect detection as an upstream module for data-driven
-  rework decision-making and scheduling automation  
+  rework decision-making and scheduling automation
+- https://github.com/Automated-Pipe-Welding-Rework-System
 
 ### LLM-based OKR Evaluation and Feedback Agent
 *🏆 Korea University Capstone Design Competition – Honorable Mention*
@@ -55,7 +56,8 @@ I enjoy translating complex problems into structured, deployable AI solutions.
   reliability of reasoning outputs
 - Integrated retrieval-augmented generation (RAG) with company-specific data
   and explored parameter-efficient fine-tuning (LoRA, quantization) on
-  LLaMA-based models  
+  LLaMA-based models
+- https://github.com/hayeon7898/OKR-AI-Agent
 
 ---
 

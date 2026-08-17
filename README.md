@@ -13,25 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👩🏻‍💻
+## 🤖 AI Research & Projects
 
-Undergraduate researcher interested in vision–language models,
-multimodal reasoning, and real-world AI systems. <br>
-I enjoy translating complex problems into structured, deployable AI solutions.
-
----
-
-## ✨ Core Research Interests
-- Vision–Language Models (multimodal reasoning, affect-aware interaction)
-- Visual Representation Learning in real-world and industrial settings
-- Reasoning-oriented AI systems integrating vision, language, and decision-making
-
----
-
-## 🤖 Selected AI Research & Projects
-
-### Emotion-Aware Vision–Language Model for Elderly Interaction
-*🏆 Hackathon Grand Prize hosted by SK Intellix*
+### 1️⃣ Emotion-Aware Vision–Language Model for Elderly Interaction
 - Designed a multimodal VLM system integrating speech, facial expression, and text
   for emotion-aware interaction with elderly users
 - Built a fusion pipeline using Whisper, wav2vec, and ResNet-18 to address
@@ -39,7 +23,7 @@ I enjoy translating complex problems into structured, deployable AI solutions.
 - Iteratively refined prompting strategies to guide the LLM toward
   emotionally appropriate responses under ambiguous inputs  
 
-### Visual Defect Detection for Pipe Welding Rework Optimization
+### 2️⃣ Visual Defect Detection for Pipe Welding Rework Optimization
 - Developed RGB-based and X-ray-based defect detection models for industrial
   pipe welding inspection
 - Trained ConvNeXt V2 on balanced RGB datasets and YOLOv8 on highly imbalanced
@@ -48,8 +32,7 @@ I enjoy translating complex problems into structured, deployable AI solutions.
   rework decision-making and scheduling automation
 - https://github.com/Automated-Pipe-Welding-Rework-System
 
-### LLM-based OKR Evaluation and Feedback Agent
-*🏆 Korea University Capstone Design Competition – Honorable Mention*
+### 3️⃣ LLM-based OKR Evaluation and Feedback Agent
 - Designed an LLM-based reasoning agent that evaluates company-authored OKRs
   using structured scoring (1–5), justification, and corrective suggestions
 - Applied chain-of-thought prompting and self-consistency to improve
@@ -63,7 +46,7 @@ I enjoy translating complex problems into structured, deployable AI solutions.
 
 ## ⚛️ Exploratory Research Experience
 
-### Quantum–Classical Hybrid Learning and Optimization
+### 1️⃣ Quantum–Classical Hybrid Learning and Optimization
 - Conducted mentored research **under guidance from IonQ**
   on adaptive hybrid quantum–classical machine learning with optimized quantum data embedding
   on IonQ trapped-ion hardware
@@ -73,27 +56,64 @@ I enjoy translating complex problems into structured, deployable AI solutions.
   and real quantum hardware, emphasizing gate-level optimization
 - https://github.com/IQ-rhythm/IonQ-Encode
 
-### Quantum Computing Challenges & Awards
-- *Challenger Level Award, 2025 Quantum Challenge 🏆* <br> hosted by Quantum Information Research Support Center
-- *1st Place, IonQ Remote Track, 2024 iQuHack 🏆* <br>**hosted by MIT**(Massachusetts Institute of Technology) 
+### 2️⃣ 2025 Quantum Challenge 
+- Challenger Level Award 
+- hosted by Quantum Information Research Support Center
+### 3️⃣ 2024 iQuHack: IonQ Remote Track
+- 1st Place
+- hosted by MIT(Massachusetts Institute of Technology) 
 
 ---
 
 ## 🛠️Engineering Experience
 
 
-### Record-Based Journaling App (Frontend & Data Architecture)
+### 1️⃣ Dearday: Record Based Journaling App
+`Frontend` `Database`
+
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 - Implemented the core organization tab using React Native
 - Designed PostgreSQL schemas and optimized queries with Supabase,
   including index-level performance tuning
 - https://github.com/Veloci-Lab/dearday
 
-### Scheduling & Appointment Management App (Backend)
+### 2️⃣ Scheduly: Scheduling & Appointment Management Service
+`Backend` `Database` `Infra`
+
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
 - Built backend foundations and service skeletons, including initial JDA setup
 - Implemented approximately half of the core APIs supporting appointment workflows
-- https://github.com/DevKor-github/WorkingDead-BE
+- Integrated Kakao Skill and Event APIs to implement chatbot-based appointment flows and automated notifications
+- https://github.com/hayeon7898/Scheduly
 
-### ESG-Based Umbrella Sharing Platform (Full-Stack)
+### 3️⃣ BeTrip: Travel Itinerary Service
+`Frontend` `Backend` `Database`
+
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+ - Full-stack developer building a travel itinerary planning service
+ - Built interactive itinerary planning UI with Kakao Map, day-by-day scheduling, drag-and-drop place management, and protected routes
+ - Implemented itinerary management, place search, recommendations, and JWT authentication using FastAPI and PostgreSQL
+ - https://github.com/hayeon7898/BeTrip-Frontend, https://github.com/hyun7931/BeTrip-Backend
+
+### 4️⃣ 뽀송: ESG-Based Umbrella Sharing App
+`Frontend` `Backend` `Database`
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
 - Full-stack developer in a two-person team building a QR-based umbrella
   rental and return service
 - Implemented rental logic, reward systems, and real-time state management
@@ -124,6 +144,8 @@ I enjoy translating complex problems into structured, deployable AI solutions.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 **Database**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -133,6 +155,9 @@ I enjoy translating complex problems into structured, deployable AI solutions.
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
 
 
 ---

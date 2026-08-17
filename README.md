@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ---
 
-## ⚛️ Exploratory Research Experience
+## ⚛️ Quantum Information Experiences
 
 ### 1️⃣ Quantum–Classical Hybrid Learning and Optimization
 - Conducted mentored research **under guidance from IonQ**

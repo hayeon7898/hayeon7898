@@ -107,12 +107,13 @@ Here are some ideas to get you started:
  - https://github.com/hayeon7898/BeTrip-Frontend, https://github.com/hyun7931/BeTrip-Backend
 
 ### 4️⃣ 뽀송: ESG-Based Umbrella Sharing App
-`Frontend` `Backend` `Database`
+`Frontend` `Backend` `Database` `Infra`
 
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
 
 - Full-stack developer in a two-person team building a QR-based umbrella
   rental and return service
@@ -157,6 +158,7 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
 
 

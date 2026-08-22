@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 🤖 AI Research & Projects
 
-### 1️⃣ Emotion-Aware Vision–Language Model for Elderly Interaction
+### 1️⃣ Emotion-Aware Vision–Language Model for Elderly Interaction (🏆)
 - Designed a multimodal VLM system integrating speech, facial expression, and text
   for emotion-aware interaction with elderly users
 - Built a fusion pipeline using Whisper, wav2vec, and ResNet-18 to address
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   rework decision-making and scheduling automation
 - https://github.com/Automated-Pipe-Welding-Rework-System
 
-### 3️⃣ LLM-based OKR Evaluation and Feedback Agent
+### 3️⃣ LLM-based OKR Evaluation and Feedback Agent (🏆)
 - Designed an LLM-based reasoning agent that evaluates company-authored OKRs
   using structured scoring (1–5), justification, and corrective suggestions
 - Applied chain-of-thought prompting and self-consistency to improve
@@ -46,8 +46,9 @@ Here are some ideas to get you started:
 
 ## ⚛️ Quantum Information Experiences
 
-### 1️⃣ Quantum–Classical Hybrid Learning and Optimization
-- Conducted mentored research **under guidance from IonQ**
+### 1️⃣ Quantum–Classical Hybrid Learning and Optimization (with <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/2447efec-0bf5-4ae4-bf65-bbec2bccbcfe" />)
+
+- Conducted mentored research **under guidance from IonQ**<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/2447efec-0bf5-4ae4-bf65-bbec2bccbcfe" />
   on adaptive hybrid quantum–classical machine learning with optimized quantum data embedding
   on IonQ trapped-ion hardware
 - Designed hybrid optimization pipelines under limited measurement (probing)
@@ -56,18 +57,21 @@ Here are some ideas to get you started:
   and real quantum hardware, emphasizing gate-level optimization
 - https://github.com/IQ-rhythm/IonQ-Encode
 
-### 2️⃣ 2025 Quantum Challenge 
+### 2️⃣ 2025 Quantum Challenge (🏆)
 - Challenger Level Award 
-- hosted by Quantum Information Research Support Center
-### 3️⃣ 2024 iQuHack: IonQ Remote Track
+- hosted by **Quantum Information Research Support Center** <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/9627c558-c842-4f30-af53-6265154afecd" /> <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/502e5b96-5989-4dcd-98b9-62d2bec28f7e" />
+
+
+### 3️⃣ 2024 iQuHack: IonQ Remote Track (🏆)
 - 1st Place
-- hosted by MIT(Massachusetts Institute of Technology) 
+- hosted by **MIT(Massachusetts Institute of Technology)** <img width="19" height="19" alt="image" src="https://github.com/user-attachments/assets/1ccb78fc-f5d1-43d2-bb34-d2c3628e7f79" />
+
+
 
 ---
 
 ## 🛠️Engineering Experience
-
-
+### 🌐 Web
 ### 1️⃣ Dearday: Record Based Journaling App
 `Frontend` `Database`
 
@@ -121,6 +125,23 @@ Here are some ideas to get you started:
   using React Native, Nest.js (TypeScript), and MySQL
 - https://github.com/hayeon7898/bbosong-front, https://github.com/hayeon7898/bbosong-back
 
+### 🎮 Game
+### 1️⃣ Gyro-Shotgun Game
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+
+- A gyro-based mobile game featuring satisfying shotgun combat and risk-taking gameplay against enemies.
+- Developed with Unity and tested on mobile devices.
+- https://github.com/hayeon7898/Gyro-Shotgun-Game
+
+### 2️⃣ Copy Crazy Arcade
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+
+- Participated in a club-wide competition to recreate the Crazy Arcade game
+- Developed the game for PC using Unity and C#
+- https://github.com/hayeon7898/Copy-Crazy-Arcade
+
 ---
 
 ## 🧰 Tech Stack
@@ -160,6 +181,12 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
+
+**Game**
+
+
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 
 
 ---

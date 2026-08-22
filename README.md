@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
 ## 🤖 AI Research & Projects
 
 ### 1️⃣ Emotion-Aware Vision–Language Model for Elderly Interaction (🏆)
@@ -71,7 +72,8 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠️Engineering Experience
-### 🌐 Web
+
+### 🌐 Web & App
 ### 1️⃣ Dearday: Record Based Journaling App
 `Frontend` `Database`
 
@@ -141,6 +143,30 @@ Here are some ideas to get you started:
 - Participated in a club-wide competition to recreate the Crazy Arcade game
 - Developed the game for PC using Unity and C#
 - https://github.com/hayeon7898/Copy-Crazy-Arcade
+  
+---
+## ⚙️ Embedded System
+
+### 1️⃣ Edge LLM NPU: RTL Architecture & Design
+![Chisel](https://img.shields.io/badge/Chisel-ED8B00?logo=chisel&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
+![Rocket Chip](https://img.shields.io/badge/Rocket%20Chip-1F425F?logoColor=white)
+
+- Developed an NPU accelerator for Edge LLM inference based on Rocket Chip.
+- Implemented a RoCC interface for custom instruction handling and autonomous execution using Task Descriptors.
+- Designed and implemented the **Control Unit**, developed the hardware architecture using **Chisel (Scala)**.
+- https://github.com/hayeon7898/lzero-rtl
+
+### 2️⃣ Exoskeleton Teleoperation
+
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
+- Developed the **Teleoperation module** for an exoskeleton-based robotic system.
+- Processed and filtered joint angle data received from the exoskeleton.
+- Published target joint angles to the robot control module using **ROS 2**.
+- https://github.com/hayeon7898/avatar_2026
 
 ---
 
@@ -182,9 +208,7 @@ Here are some ideas to get you started:
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
 
-**Game**
-
-
+**Game**  
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 

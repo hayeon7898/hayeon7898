@@ -151,6 +151,7 @@ Here are some ideas to get you started:
 ![Chisel](https://img.shields.io/badge/Chisel-ED8B00?logo=chisel&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
 ![Rocket Chip](https://img.shields.io/badge/Rocket%20Chip-1F425F?logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 - Developed an NPU accelerator for Edge LLM inference based on Rocket Chip.
 - Implemented a RoCC interface for custom instruction handling and autonomous execution using Task Descriptors.

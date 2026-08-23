@@ -145,7 +145,7 @@ Here are some ideas to get you started:
 - https://github.com/hayeon7898/Copy-Crazy-Arcade
   
 ---
-## ⚙️ Embedded System
+## ⚙️ Embedded & Computer Systems
 
 ### 1️⃣ Edge LLM NPU: RTL Architecture & Design
 ![Chisel](https://img.shields.io/badge/Chisel-ED8B00?logo=chisel&logoColor=white)
@@ -158,7 +158,16 @@ Here are some ideas to get you started:
 - Designed and implemented the **Control Unit**, developed the hardware architecture using **Chisel (Scala)**.
 - https://github.com/hayeon7898/lzero-rtl
 
-### 2️⃣ Exoskeleton Teleoperation
+### 2️⃣ Cortex-M0+ Embedded Systems
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
+![Microchip](https://img.shields.io/badge/Microchip-EE3134?logo=microchip&logoColor=white)
+
+- Developed various embedded applications on Cortex-M0+, including RC car control and register-level peripheral control.
+- Implemented GPIO, timers, PWM, interrupts, and communication interfaces.
+- Worked with Thumb ISA and low-level hardware control.
+
+### 3️⃣ Exoskeleton Teleoperation
 
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -168,6 +177,18 @@ Here are some ideas to get you started:
 - Processed and filtered joint angle data received from the exoskeleton.
 - Published target joint angles to the robot control module using **ROS 2**.
 - https://github.com/hayeon7898/avatar_2026
+ 
+### 4️⃣ Linux Kernel CPU Scheduler
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
+
+- Implemented a **CPU scheduler at the Linux system call level**, adding a custom system call for scheduling policy selection and execution.
+- Implemented and compared **FCFS, SRTF, Round Robin, and Priority with Preemption** scheduling policies.
+- Developed kernel-level process management using queues, process control structures, and **spinlocks**.
+- Tested scheduling behavior and response times in an **Ubuntu environment running on VirtualBox**.
+- https://github.com/hayeon7898/linux-kernel-cpu-scheduler
 
 ---
 
@@ -189,10 +210,10 @@ Here are some ideas to get you started:
 
 **Frontend / Backend**  
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
@@ -201,17 +222,22 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+**Infra**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
 
-**Game**  
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
+![Microchip](https://img.shields.io/badge/Microchip-EE3134?logo=microchip&logoColor=white) 
+
 
 
 ---
